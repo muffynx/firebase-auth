@@ -20,7 +20,7 @@ flutterfire configure
 ```
 flutter run
 ```
-Common Errors & Fixes
+🛠 Common Errors & Fixes ❌ Error: type 'Null' is not a subtype of type 'String' in type cast
 ```
 npm uninstall -g firebase-tools
 npm install -g firebase-tools@13.30.0
