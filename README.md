@@ -1,8 +1,8 @@
-# flutter_auth
+# 🚀 flutter_auth
 
 
 
-## Getting Started
+## 📖 Getting Started
 
 git clone https://github.com/muffynx/firebase-auth.git
 cd firebase-auth
@@ -22,3 +22,7 @@ flutter run
 Common Errors & Fixes
 npm uninstall -g firebase-tools
 npm install -g firebase-tools@13.30.0
+
+```sh
+git clone https://github.com/muffynx/firebase-auth.git
+cd firebase-auth
