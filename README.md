@@ -1,16 +1,24 @@
 # flutter_auth
 
-A new Flutter project.
+
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+git clone https://github.com/muffynx/firebase-auth.git
+cd firebase-auth
 
-A few resources to get you started if this is your first Flutter project:
+## Install 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+flutter pub get
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Set Up Firebase
+
+dart pub global activate flutterfire_cli
+flutterfire configure
+
+## Run the App
+flutter run
+
+Common Errors & Fixes
+npm uninstall -g firebase-tools
+npm install -g firebase-tools@13.30.0
