@@ -3,10 +3,10 @@
 
 
 ## 📖 Getting Started
-
+```
 git clone https://github.com/muffynx/firebase-auth.git
 cd firebase-auth
-
+```
 ## Install 
 ```
 flutter pub get
